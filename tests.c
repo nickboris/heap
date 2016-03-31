@@ -1,4 +1,4 @@
-// hw6test.c  A test file for the memory manager hw.
+// A test file for the memory manager.
 
 #include "memorymgr.h"
 #include <stdio.h>
