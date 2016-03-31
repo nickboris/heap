@@ -1,4 +1,4 @@
-// hw7test.c  Deliberately greate garbage to see if gc can find it.
+// Deliberately greate garbage to see if gc can find it.
 
 #include "memorymgr.h"
 #include "gc.h"
